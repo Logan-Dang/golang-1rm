@@ -16,13 +16,13 @@ A lightweight Go package that provides functions to estimate a one-rep max (1RM)
 ## Installation
 
 ```bash
-go get github.com/Logan-Dang/golang1rm
+go get github.com/Logan-Dang/golang-1rm/rm1
 ```
 
 Then import it in your Go code:
 
 ```go
-import "github.com/Logan-Dang/golang1rm"
+import "github.com/Logan-Dang/golang-1rm/rm1
 ```
 
 ## Quickstart
@@ -32,7 +32,7 @@ package main
 
 import (
     "fmt"
-    "github.com/yourusername/golang1rm"
+    "github.com/yourusername/golang-1rm/rm1"
 )
 
 func main() {

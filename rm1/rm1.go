@@ -1,9 +1,9 @@
 // Package golang1rm provides functions to calculate one-rep max (1RM) estimates
 // using various formulas and to predict repetitions based on a given 1RM.
-package golang1rm
+package rm1
 
 const (
-	Version = "1.0.0"
+	Version = "1.0.1"
 )
 
 // Rm1Formula represents the different formulas used for 1RM calculations.
